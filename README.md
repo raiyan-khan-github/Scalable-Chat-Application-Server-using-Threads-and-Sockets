@@ -24,8 +24,6 @@ This project implements a multi-client socket server using C++ and WinSock. The 
 - C++ compiler (e.g., Visual Studio, g++).
 - Basic understanding of networking concepts.
 
-## Getting Started
-
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
